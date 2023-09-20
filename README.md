@@ -4,6 +4,7 @@
 
 ## Discrete Markov chains
 - Simulating a discrete time Markov Chain
+- Random walk on a graph
 
 ## Continuous Markov chains
 
