@@ -3,7 +3,7 @@
 ## Bernouli processes
 
 ## Random walk
-- Random walks with absorbing barriers
+- [x] Random walks with absorbing barriers
 - [] Self avoiding random walks
 - [] Gaussian random walk
 - [] Markov Chain Monte Carlo
@@ -16,8 +16,8 @@
 ## Poisson processes
 
 ## Discrete Markov chains
-- Simulating a discrete time Markov Chain
-- Random walk on a graph
+- [x] Simulating a discrete time Markov Chain
+- [x] Random walk on a graph
 
 ## Continuous Markov chains
 
