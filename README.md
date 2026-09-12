@@ -4,6 +4,9 @@
 - [Random walks with absorbing barriers](random-walk/Random_walks_with_absorbing_barriers.ipynb)
 - [Self-avoiding random walks](random-walk/Self-avoiding_random_walk.ipynb)
 
+## Brownian motion
+- [Brownian motion](brownian-motion/Brownian_motion.ipynb)
+
 ## Poisson processes
 - [Simulating a poisson process](poisson-processes/Simulating_a_poisson_process.ipynb)
 
